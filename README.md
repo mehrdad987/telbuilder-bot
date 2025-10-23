@@ -20,5 +20,5 @@ Join our community to share feedback and suggest new ideas for future projects.
 
 Feel free to reach out with any inquiries or collaboration proposals.
 
-Together, we can shape the future of interactive experiences on Telegram!
+# Together, we can shape the future of interactive experiences on Telegram!
 
